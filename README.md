@@ -1,12 +1,25 @@
 ## HNECV
 
 This repository provides a reference implementation of *HNECV* as described in the paper:
-
 >HNECV: Heterogeneous Network Embedding via Cloud model and Variational inference.
 >Ming Yuan, LiuQun, Guoyin Wang, Yike Guo.
 >CAAI International Conference on Artificial Intelligence. 2021.
 
 The paper has been accepted by CICAI, the full paper is coming soon.
+
+### Dataset
+
+The processed data used in the paper are available at:
+
+- DBLP - [Dropbox](https://www.dropbox.com/s/zpvkz0bsvepzuqm/SingleDBLP.mat?dl=0)
+- AMiner - [Dropbox](https://www.dropbox.com/s/p7r4s0llqnsw7es/SingleAminer.mat?dl=0)
+- Yelp - [Dropbox](https://www.dropbox.com/s/whowte4f4zsu86r/SingleYelp.mat?dl=0)
+
+You need to perform the following steps for the downloaded file: 
+
+- Move `SingleDBLP.mat` to the `HNECV/dataset/DBLP/`
+- Move `SingleAminer.mat` to the `HNECV/dataset/AMiner/`
+- Move `SingleYelp.mat` to the `HNECV/dataset/Yelp/`
 
 ### Basic Usage
 
@@ -56,4 +69,3 @@ If HNECV is useful for your research, please cite the following paper:
   address={Hangzhou}
 }
 ```
-
