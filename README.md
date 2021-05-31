@@ -1,6 +1,9 @@
 ## HNECV
 
+![](fig1.jpg)
+
 This repository provides a reference implementation of *HNECV* as described in the paper:
+
 >HNECV: Heterogeneous Network Embedding via Cloud model and Variational inference.
 >Ming Yuan, LiuQun, Guoyin Wang, Yike Guo.
 >CAAI International Conference on Artificial Intelligence. 2021.
