@@ -10,7 +10,7 @@ Ming Yuan, LiuQun, Guoyin Wang, Yike Guo.
 CAAI International Conference on Artificial Intelligence. 2021.
 ```
 
-The paper has been accepted by CICAI, the full paper is coming soon.
+The paper has been accepted by CICAI, available at [here](HNECV.pdf).
 
 ### Dataset
 
@@ -59,7 +59,7 @@ Your input file must be a adjacency matrix, which can be a **mat** file or other
 
 If you only have the **edgelist** file, you need to follow the preprocessing method in pipline.py, and rewrite the corresponding semantic random walk code.
 
-> If you run pytorch_HNECV.py directly, You need at least the label file of the node, like the initial file in the `dataset/DBLP/reindex_dblp/` folder
+> noted: If you run pytorch_HNECV.py directly, You need at least the label file of the node, like the initial file in the `dataset/DBLP/reindex_dblp/` folder
 
 ### Citing
 
