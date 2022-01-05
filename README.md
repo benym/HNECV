@@ -10,7 +10,7 @@ Ming Yuan, LiuQun, Guoyin Wang, Yike Guo.
 CAAI International Conference on Artificial Intelligence. 2021.
 ```
 
-The paper has been accepted by CICAI, available at [here](HNECV.pdf).
+The paper has been accepted by CICAI, available at [here](HNECV.pdf) and [SpringLink](https://link.springer.com/chapter/10.1007/978-3-030-93046-2_63)
 
 ### Dataset
 
@@ -66,11 +66,17 @@ If you only have the **edgelist** file, you need to follow the preprocessing met
 If HNECV is useful for your research, please cite the following paper:
 
 ```
-@inproceedings{yuan2021hnecv,
-  title={HNECV: Heterogeneous Network Embedding via Cloud model and Variational inference},
-  author={Ming Yuan, Qun Liu, Guoyin Wang, Yike Guo},
-  booktitle={CAAI International Conference on Artificial Intelligence},
-  year={2021},
-  address={Hangzhou}
+@InProceedings{10.1007/978-3-030-93046-2_63,
+author="Yuan, Ming
+and Liu, Qun
+and Wang, Guoyin
+and Guo, Yike",
+title="HNECV: Heterogeneous Network Embedding via Cloud Model and Variational Inference",
+booktitle="Artificial Intelligence",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="747--758",
+isbn="978-3-030-93046-2"
 }
 ```
