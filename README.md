@@ -66,17 +66,30 @@ If you only have the **edgelist** file, you need to follow the preprocessing met
 If HNECV is useful for your research, please cite the following paper:
 
 ```
-@InProceedings{10.1007/978-3-030-93046-2_63,
-author="Yuan, Ming
-and Liu, Qun
-and Wang, Guoyin
-and Guo, Yike",
-title="HNECV: Heterogeneous Network Embedding via Cloud Model and Variational Inference",
-booktitle="Artificial Intelligence",
-year="2021",
-publisher="Springer International Publishing",
-address="Cham",
-pages="747--758",
-isbn="978-3-030-93046-2"
+@inproceedings{DBLP:conf/cicai/YuanLWG21,
+  author    = {Ming Yuan and
+               Qun Liu and
+               Guoyin Wang and
+               Yike Guo},
+  editor    = {Lu Fang and
+               Yiran Chen and
+               Guangtao Zhai and
+               Z. Jane Wang and
+               Ruiping Wang and
+               Weisheng Dong},
+  title     = {{HNECV:} Heterogeneous Network Embedding via Cloud Model and Variational
+               Inference},
+  booktitle = {Artificial Intelligence - First {CAAI} International Conference, {CICAI}
+               2021, Hangzhou, China, June 5-6, 2021, Proceedings, Part {I}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13069},
+  pages     = {747--758},
+  publisher = {Springer},
+  year      = {2021},
+  url       = {https://doi.org/10.1007/978-3-030-93046-2\_63},
+  doi       = {10.1007/978-3-030-93046-2\_63},
+  timestamp = {Fri, 14 Jan 2022 09:56:35 +0100},
+  biburl    = {https://dblp.org/rec/conf/cicai/YuanLWG21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
